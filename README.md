@@ -2,13 +2,13 @@
 
 # Description
 
-The purpose of this project is to deminstate Object-relational Mapping or (ORM) for a E-Commerce website.
+The purpose of this project is to demonstrate Object-relational Mapping or (ORM) for a E-Commerce website.
 This project is a back-end application that uses Express.js, Postgres and Sequelize. The application provides CRUD operations for the categories, products, tags, and product tags giving the user to manage the online store's inventory.
 
 # Installation
-- Clone repositroy [Here](https://github.com/natale565/natale565-E-Commerce-Back-End)
+- Clone repository [Here](https://github.com/natale565/natale565-E-Commerce-Back-End)
 - Navigate to project directory and open in VS Code.
-- in the termainal while cd'd in directory, install necessary dependencies.
+- in the terminal while cd'd in directory, install necessary dependencies.
 - Set up your PosgresSQL database and connect in the .env file
 - Run seed file
 - Start server by using npm start
@@ -18,7 +18,7 @@ This project is a back-end application that uses Express.js, Postgres and Sequel
 
 - To test this tool use Insomnia or a similar tool of your choice.
 
-# Example video of useage and screen shots
+# Example video of usage and screen shots
 
 - [Link To Video](https://app.screencastify.com/v3/watch/mkK2sq7j2qjqo0oVLBsq)
 
